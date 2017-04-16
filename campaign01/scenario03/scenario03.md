@@ -242,7 +242,7 @@
 |達成|150|スケルトンの湖に入った||
 |達成|1500|古文書を回収した|*|
 
-----
+```
 coin  2520 gp
 mons   333 xp
 achi  1500 xp
@@ -253,9 +253,11 @@ item  scroll x 20 > Sandra
       potion x 2 > healing:Rilo, anti-poison:Sandra
       blessred x 1 > Nobie
       short sword x 1 > Sandra
-----
+--
 
 XP: 4353 (1451/character)
 CO: 2520 gp (840 gp/character)
+
+```
 
 
