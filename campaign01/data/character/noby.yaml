@@ -1,0 +1,59 @@
+---
+id: noby
+name: ノビー・タークン
+player: dm
+ability:
+  - 11
+  - 19
+  - 17
+  - 15
+  - 11
+  - 11
+classes:
+  - class: rogue
+    level: 3
+    hp: [11, 5, 10]
+race: human
+xp: 900
+alignment: N
+languages:
+  - 共通語
+  - エルフ語
+savingthrows:
+  - dex
+  - int
+skils:
+  - acrobatics
+  - sleight of hand
+  - deception
+  - stealth
+  - insight
+inspiration: 0
+feats:
+hitpoint:
+  current: 26
+  temp: 26
+personality: 事にあたって危険を顧みず勝算を気にかけない
+ideals: 人々
+bonds: 奪われた大事なものがある
+flaws: 嘘をつく時には決まって出てしまうくせがある
+equipments:
+  - shortbow
+  - shortsword
+  - leatherarmor
+  - backpack
+  - lanthanum
+  - cloth
+  
+installation:
+  - shortbow
+  - shortsword
+  - leatherarmor
+possession:
+
+wallet:
+  carry: [100, 840, 0, 50, 0]
+  store: [0, 0, 0, 0, 0]
+
+
+
