@@ -44,7 +44,7 @@ equipments:
   - backpack
   - lanthanum
   - cloth
-  
+
 installation:
   - shortbow
   - shortsword
@@ -54,6 +54,8 @@ possession:
 wallet:
   carry: [100, 840, 0, 50, 0]
   store: [0, 0, 0, 0, 0]
+
+condition: normal
 
 
 
