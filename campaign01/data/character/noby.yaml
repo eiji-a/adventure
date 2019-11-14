@@ -3,12 +3,12 @@ id: noby
 name: ノビー・タークン
 player: dm
 ability:
-  - 11
-  - 19
-  - 17
-  - 15
-  - 11
-  - 11
+  - 10
+  - 18
+  - 16
+  - 14
+  - 10
+  - 10
 classes:
   - class: rogue
     level: 3
@@ -16,6 +16,13 @@ classes:
 race: human
 xp: 900
 alignment: N
+background: 露店商
+age: 28
+eyes: 黒
+skin: 黄色
+hair: 黒
+height: 6.0
+weight: 105
 languages:
   - 共通語
   - エルフ語
@@ -37,6 +44,9 @@ personality: 事にあたって危険を顧みず勝算を気にかけない
 ideals: 人々
 bonds: 奪われた大事なものがある
 flaws: 嘘をつく時には決まって出てしまうくせがある
+backstory:
+alliesorg:
+featurestraits:
 equipments:
   - shortbow
   - shortsword

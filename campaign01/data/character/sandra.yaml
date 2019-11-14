@@ -1,0 +1,77 @@
+---
+id: sandra
+name: サンドラ・アマスタキア
+player: aiko
+ability:
+  - 14
+  - 9
+  - 13
+  - 16
+  - 10
+  - 10
+classes:
+  - class: fighter
+    level: 2
+    hp: [7, 6]
+  - class: wizard
+    level: 1
+    hp: [8]
+race: elf_high
+xp: 900
+alignment: CG
+background: 農家
+age: 28
+eyes: 黒
+skin: 黄色
+hair: 黒
+height: 6.0
+weight: 105
+languages:
+  - 共通語
+  - エルフ語
+  - ドラゴン語
+  - 森語
+savingthrows:
+  - str
+  - con
+  - int
+  - wis
+skils:
+  - survival
+  - perception
+  - arcana
+  - history
+inspiration: 0
+feats:
+hitpoint:
+  current: 13
+  temp: 13
+personality: 狼に育てられました。人間といるより動物といる方が好き。
+ideals: 大義
+bonds: 私の種族を守り続けるのが一番大事
+flaws: すぐに人を信じられない
+backstory:
+alliesorg:
+featurestraits:
+equipments:
+  - shortbow
+  - shortsword
+  - leatherarmor
+  - backpack
+  - lanthanum
+  - cloth
+
+installation:
+  - shortbow
+  - shortsword
+  - leatherarmor
+possession:
+
+wallet:
+  carry: [100, 840, 0, 50, 0]
+  store: [0, 0, 0, 0, 0]
+
+condition: normal
+
+
+
